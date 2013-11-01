@@ -12,4 +12,7 @@ Public class roller-coaster{
 		stops a train/cabbins if emergency;
 		slows down a train/cabbins if emergency;
 	}
+	Linear Induction Motor{
+		launches a train along or up a section of steel track;
+	}
 }
