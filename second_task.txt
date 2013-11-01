@@ -4,5 +4,11 @@ Public class roller-coaster{
 		starts a Linear Induction Motor;
 		starts a Linear Synchronous Motor;
 	}
+	Linear Synchronous Motor{
+		launch a train along a straight section of track of hill;
+	}
+	Anti-Rollback Device{
+		prevents the trains from rolling backwards;
+	}
 	
 }
